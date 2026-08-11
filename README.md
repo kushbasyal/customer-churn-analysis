@@ -7,3 +7,8 @@ This project will analyse customer data
 - Python
 - Excel
 - Git and Github
+
+# Description
+
+This project will analyse customer churn data and find usefull insights, predict churn and segment customer based on their properties
+
