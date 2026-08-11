@@ -1,0 +1,16 @@
+{
+    "data": {
+        "raw": "data/raw",
+        "processed": "data/processed"
+    },
+
+    "folders": {
+        "docs": "docs",
+        "modeling": "modeling",
+        "notebooks": "notebooks",
+        "powerbi": "powerbi",
+        "scripts": "scripts",
+        "sql":"sql",
+        "visualisation": "visualisation"
+    }
+}
