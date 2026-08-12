@@ -1,7 +1,9 @@
 {
     "data": {
         "raw": "data/raw",
-        "processed": "data/processed"
+        "processed": "data/processed",
+        "cutstomer_churn_dataset" : "data/raw/cutstomer_churn_dataset",
+        "clean_customer_dataset" : "data/processed/clean_customer_dataset"
     },
 
     "folders": {
