@@ -23,4 +23,3 @@ from scripts.config_paths import raw_data_path
 df = load_data(raw_data_path)
 
 print(df.head())
-
