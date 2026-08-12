@@ -2,8 +2,8 @@
     "data": {
         "raw": "data/raw",
         "processed": "data/processed",
-        "customer_churn_dataset" : "data/raw/customer_churn_dataset",
-        "clean_customer_dataset" : "data/processed/clean_customer_dataset"
+        "customer_churn_dataset" : "data/raw/customer_churn_dataset.csv",
+        "clean_customer_dataset" : "data/processed/clean_customer_dataset.csv"
     },
 
     "folders": {
